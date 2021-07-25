@@ -86,3 +86,5 @@ All done.
 
 ESXi-7.0U2a-17867351-standard-customized.iso
 
+# インストール後のWebUIで確認
+![image](https://user-images.githubusercontent.com/19838489/126905413-a2133511-c7cd-4084-be0c-f7e55ecd2d07.png)
