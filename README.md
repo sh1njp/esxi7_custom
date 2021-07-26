@@ -23,6 +23,7 @@ https://github.com/VFrontDe/ESXi-Customizer-PS
 
 以下ファイルをダウンロード
 https://raw.githubusercontent.com/VFrontDe/ESXi-Customizer-PS/master/ESXi-Customizer-PS.ps1
+
 2021年7月26日時点で、Version2.8.1でした。
 
 ファイルA：ESXi-Customizer-PS.ps1
