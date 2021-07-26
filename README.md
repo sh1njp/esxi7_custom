@@ -34,7 +34,7 @@ https://flings.vmware.com/community-nvme-driver-for-esxi
 ファイルB : nvme-community-driver_1.0.1.0-2vmw.700.1.0.15843807-component-18290856.zip
 
 
-# ディレクトリ C:esxi7-custom\pkg を作成、ファイルを格納。
+# ディレクトリ C:\esxi7-custom\pkg を作成、ファイルを格納。
 
 ファイルA,Bを上記ディレクトリに格納。
 
