@@ -41,7 +41,7 @@ https://flings.vmware.com/community-nvme-driver-for-esxi
 
 ```
 PS C:\esxi7-custom\pkg> DIR
-ディレクトリ: F:\esxi7-custom\pkg
+ディレクトリ: C:\esxi7-custom\pkg
 
 Mode            LastWriteTime   Length Name
 ----            -------------   ------ ----
@@ -61,7 +61,7 @@ PS C:esxi7-custom\pkg> .\ESXi-Customizer-PS.ps1 -v70 -pkgDir C:\esxi7-custom\pkg
 This is ESXi-Customizer-PS Version 2.8.1 (visit https://ESXi-Customizer-PS.v-front.de for more information!)
 (Call with -help for instructions)
 
-Logging to C:\Users\netadmin\AppData\Local\Temp\ESXi-Customizer-PS-320.log ...
+Logging to C:\Users\sh1njp\AppData\Local\Temp\ESXi-Customizer-PS-320.log ...
 
 Running with PowerShell version 5.1 and VMware PowerCLI version .. build
 
